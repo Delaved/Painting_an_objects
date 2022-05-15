@@ -1,0 +1,8 @@
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\bin\Debug\PaintPicture.exe.config
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\bin\Debug\PaintPicture.exe
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\bin\Debug\PaintPicture.pdb
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\obj\Debug\PaintPicture.csproj.AssemblyReference.cache
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\obj\Debug\PaintPicture.csproj.SuggestedBindingRedirects.cache
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\obj\Debug\PaintPicture.csproj.CoreCompileInputs.cache
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\obj\Debug\PaintPicture.exe
+D:\programm\My Programm\c#\PaitnPicture\PaintPicture\PaintPicture\obj\Debug\PaintPicture.pdb
